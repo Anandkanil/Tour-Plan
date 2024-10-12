@@ -18,7 +18,7 @@ function Card(props) {
     return (
 
         <div className='card'>
-            <img src={image} className='image' alt='there is an image here'></img>
+            <img src={image} className='image'></img>
             <div className='tour-info'>
                 <div className='tour-details'>
                     <h4 className='tour-price'>₹{price}</h4>
