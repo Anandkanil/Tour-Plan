@@ -21,7 +21,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/Anandkanil/Tour-Plan
 
 3. Navigate to the project directory:
-cd tourist-places-showcase
+cd Tour-Plan
 
 3. Install dependencies:
 npm install
