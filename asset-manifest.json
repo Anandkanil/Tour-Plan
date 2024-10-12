@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-Plan/static/css/main.2cab2a25.css",
+    "main.js": "/Tour-Plan/static/js/main.6a063254.js",
+    "index.html": "/Tour-Plan/index.html",
+    "main.2cab2a25.css.map": "/Tour-Plan/static/css/main.2cab2a25.css.map",
+    "main.6a063254.js.map": "/Tour-Plan/static/js/main.6a063254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cab2a25.css",
+    "static/js/main.6a063254.js"
+  ]
+}
